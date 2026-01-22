@@ -20,6 +20,7 @@ Origin | Financial markets and economic fluctuations. | Internal organizational 
 Control | Often external (the market), though managed via hedging. | Often internal (human behavior/IT), managed through policies.
 Primary Tools | VaR (Value at Risk), Stress Testing, Hedging. | Audits, Incident Logs, Compliance Frameworks.
 
-<img width="754" height="120" alt="image" src="https://github.com/user-attachments/assets/e1b28bbe-f23b-4d4c-bb46-3c70d132fc47" />
+<img width="1507" height="239" alt="image" src="https://github.com/user-attachments/assets/d8088886-cdf7-4fa7-8124-df46a9c2f15d" />
+
 
 
