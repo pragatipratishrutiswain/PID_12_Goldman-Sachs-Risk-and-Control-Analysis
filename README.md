@@ -22,7 +22,12 @@ Ref: https://www.goldmansachs.com/careers/our-firm/risk/
 ----------------------------------------------------
 <img width="1506" height="265" alt="image" src="https://github.com/user-attachments/assets/fe194abd-1e35-4f99-8e9c-6ec63d2116ae" />
 
-
+## 💡 Relative examples of major types of risks:
+- Market risk: Similar to how the entire stock market can fluctuate, our academic performance can be impacted by broader factors such as changes in the educational system or economic conditions affecting our ability to study (e.g., needing to work more hours).
+- **Credit risk:** Just like lending money with the risk of not being repaid, we face credit risk when we lend notes or study materials to peers without assurance of getting equivalent help in return.
+- **Liquidity risk:** This is akin to trying to sell a concert ticket at the last minute but being unable to find a buyer, potentially leading to a financial loss.
+- **Operational risk:** In our life, this could be related to the risk of losing important work due to a computer crash or misplacing critical study materials.
+- **Model risk:** This is similar to relying on a study plan or method that might not be effective, leading to suboptimal academic performance.
 
 
 
