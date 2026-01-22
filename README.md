@@ -9,7 +9,7 @@ Financial risks involves:
 - Market risk
 - Operational risk
 
-## 💡 What is the job of a Risk Analyst?
+## 💡 What is the job of a Financial Risk Analyst?
 **Risk analysts** design strategies to **minimize the impact of these risks** on **investment portfolios and ensure regulatory compliance**. They analyze market trends, assess the impact of economic factors, and use sophisticated models to predict potential risks. This understanding is essential for making educated investment decisions and protecting assets. This field demands a deep understanding of financial instruments, strong analytical abilities, and a proactive approach to problem-solving.
 
 **Financial Risk  vs	Non-Financial Risk**
