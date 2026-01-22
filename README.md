@@ -4,7 +4,7 @@
 ## 💡 What is Risk in finance domain?
 Risk management is the cornerstone of economic resilience and strategic decision-making that involves identifying potential threats using analytical tools to quantify and mitigate them to safeguard investments and ensure sustainable growth. The Risk Analysts uses their expertise in finance, mathematics, and technology to evaluate and manage the risks associated with financial markets.
 
-Financial/Non-financial Risks involves:
+## Financial/Non-financial Risks involves:
 - Credit risk
 - Enterprise Risk
 - Market risk
