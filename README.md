@@ -31,7 +31,7 @@ Ref: https://www.goldmansachs.com/careers/our-firm/risk/
 
 Whether it's navigating financial markets or making everyday decisions as a college student, the principles of identifying, analyzing, and mitigating risks remain constant. Understanding these concepts in the context of daily life not only demystifies what risk analysts do but also empowers us to make more informed decisions in various aspects of our life.
 
-## Risk management and mitigation
+## Risk Management and Mitigation
 - It encompasses identifying, analyzing, and proactively addressing financial risks to safeguard assets and maintain market stability.
 - Employs advanced strategies/measures such as portfolio diversification, hedging techniques, and rigorous monitoring systems.
 - These measures are crucial in making well-calculated financial decisions, ensuring regulatory compliance, and upholding the firm's reputation for financial acumen. 
