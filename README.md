@@ -42,7 +42,8 @@ Whether it's navigating financial markets or making everyday decisions as a coll
 - **Implementation and monitoring**
 
 ## Example of Daily Life Risk Management
-<img width="853" height="157" alt="image" src="https://github.com/user-attachments/assets/da7d62f9-6942-46f8-967c-4428dbc85069" />
+<img width="1706" height="313" alt="image" src="https://github.com/user-attachments/assets/75db8d1f-d3f0-416b-9948-16b2fecae678" />
+
 
 
 
