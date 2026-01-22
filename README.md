@@ -41,6 +41,7 @@ Whether it's navigating financial markets or making everyday decisions as a coll
 - **Strategic planning**
 - **Implementation and monitoring**
 
+## Example of Daily Life Risk Management
 <img width="1679" height="311" alt="image" src="https://github.com/user-attachments/assets/1c8996c6-3589-4301-b57d-7af4ccdfe5f1" />
 
 
