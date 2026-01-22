@@ -13,6 +13,8 @@ Risk management is the cornerstone of economic resilience and strategic decision
 - Operational risk
 - Engineering
 
+Ref: https://www.goldmansachs.com/careers/our-firm/risk/
+
 ## 💡 What is the job of a Risk Analyst?
 **Risk analysts** design strategies to **minimize the impact of these risks** on **investment portfolios and ensure regulatory compliance**. They analyze market trends, assess the impact of economic factors, and use sophisticated models to predict potential risks. This understanding is essential for making educated investment decisions and protecting assets. This field demands a deep understanding of financial instruments, strong analytical abilities, and a proactive approach to problem-solving.
 
@@ -20,7 +22,6 @@ Risk management is the cornerstone of economic resilience and strategic decision
 ----------------------------------------------------
 <img width="1506" height="265" alt="image" src="https://github.com/user-attachments/assets/fe194abd-1e35-4f99-8e9c-6ec63d2116ae" />
 
-Ref: https://www.goldmansachs.com/careers/our-firm/risk/
 
 
 
