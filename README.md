@@ -20,12 +20,6 @@ Origin | Financial markets and economic fluctuations. | Internal organizational 
 Control | Often external (the market), though managed via hedging. | Often internal (human behavior/IT), managed through policies.
 Primary Tools | VaR (Value at Risk), Stress Testing, Hedging. | Audits, Incident Logs, Compliance Frameworks.
 
-Feature	Financial Risk	Non-Financial Risk
-Definition	Direct risk of losing money or capital due to market movements or credit issues.	Risks arising from internal processes, people, systems, or external events.
-Primary Focus	The Balance Sheet and Market volatility.	Operations, Compliance, and Reputation.
-Quantifiability	High; easily measured in currency and percentages.	Low; often qualitative and difficult to measure precisely.
-Origin	Financial markets and economic fluctuations.	Internal organizational failures or external environment changes.
-Control	Often external (the market), though managed via hedging.	Often internal (human behavior/IT), managed through policies.
-Primary Tools	VaR (Value at Risk), Stress Testing, Hedging.	Audits, Incident Logs, Compliance Frameworks.
-<img width="289" height="1224" alt="image" src="https://github.com/user-attachments/assets/eecf5499-b7ef-4605-90f6-4abafdca5b63" />
+<img width="754" height="120" alt="image" src="https://github.com/user-attachments/assets/e1b28bbe-f23b-4d4c-bb46-3c70d132fc47" />
+
 
