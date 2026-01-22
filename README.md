@@ -34,9 +34,11 @@ Whether it's navigating financial markets or making everyday decisions as a coll
 ## Risk Management and Mitigation
 - It encompasses identifying, analyzing, and proactively addressing financial risks to safeguard assets and maintain market stability.
 - Employs advanced strategies/measures such as portfolio diversification, hedging techniques, and rigorous monitoring systems.
-- These measures are crucial in making well-calculated financial decisions, ensuring regulatory compliance, and upholding the firm's reputation for financial acumen. 
+- These measures are crucial in making well-calculated financial decisions, ensuring regulatory compliance, and upholding the firm's reputation for financial acumen.
+  
 ## 3 Steps of Risk Mitigation
 - **Identification and analysis**
 - **Strategic planning**
 - **Implementation and monitoring**
 
+<img width="779" height="136" alt="image" src="https://github.com/user-attachments/assets/d21c3d0a-373d-4a72-9b50-b582fca4835f" />
