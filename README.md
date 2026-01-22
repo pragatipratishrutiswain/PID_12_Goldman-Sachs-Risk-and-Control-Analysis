@@ -29,8 +29,14 @@ Ref: https://www.goldmansachs.com/careers/our-firm/risk/
 - **Operational risk:** In our life, this could be related to the risk of losing important work due to a computer crash or misplacing critical study materials.
 - **Model risk:** This is similar to relying on a study plan or method that might not be effective, leading to suboptimal academic performance.
 
+Whether it's navigating financial markets or making everyday decisions as a college student, the principles of identifying, analyzing, and mitigating risks remain constant. Understanding these concepts in the context of daily life not only demystifies what risk analysts do but also empowers us to make more informed decisions in various aspects of our life.
 
-
-
-
+## Risk management and mitigation
+- It encompasses identifying, analyzing, and proactively addressing financial risks to safeguard assets and maintain market stability.
+- Employs advanced strategies/measures such as portfolio diversification, hedging techniques, and rigorous monitoring systems.
+- These measures are crucial in making well-calculated financial decisions, ensuring regulatory compliance, and upholding the firm's reputation for financial acumen. 
+## 3 steps of Risk Mitigation
+- **Identification and analysis**
+- **Strategic planning**
+- **Implementation and monitoring**
 
