@@ -45,7 +45,9 @@ Whether it's navigating financial markets or making everyday decisions as a coll
 <img width="1706" height="313" alt="image" src="https://github.com/user-attachments/assets/75db8d1f-d3f0-416b-9948-16b2fecae678" />
 
 ## Segragating Risks into Categories
-<img width="755" height="169" alt="image" src="https://github.com/user-attachments/assets/37f74081-3b9b-4a54-b07c-fdcddd8a7f24" />
+<img width="1510" height="337" alt="image" src="https://github.com/user-attachments/assets/2ed4b814-14b0-4e11-a523-2f375ddfc29b" />
+
+
 
 
 
