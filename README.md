@@ -41,5 +41,6 @@ Whether it's navigating financial markets or making everyday decisions as a coll
 - **Strategic planning**
 - **Implementation and monitoring**
 
-<img width="789" height="151" alt="image" src="https://github.com/user-attachments/assets/f84681e1-5227-4166-991c-d5d8f6fdf12d" />
+<img width="1578" height="302" alt="image" src="https://github.com/user-attachments/assets/8889b2fb-5034-4c36-ba1d-cbf5248055be" />
+
 
