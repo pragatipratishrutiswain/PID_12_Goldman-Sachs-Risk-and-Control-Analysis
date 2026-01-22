@@ -14,7 +14,8 @@ Financial risks involves:
 
 **Financial Risk  vs	Non-Financial Risk**
 ----------------------------------------------------
-<img width="1507" height="239" alt="image" src="https://github.com/user-attachments/assets/d8088886-cdf7-4fa7-8124-df46a9c2f15d" />
+<img width="753" height="133" alt="image" src="https://github.com/user-attachments/assets/88b65b2a-f276-4e0d-a8c6-b6ae04468bc4" />
+
 
 
 
