@@ -44,6 +44,8 @@ Whether it's navigating financial markets or making everyday decisions as a coll
 ## Example of Daily Life Risk Management
 <img width="1706" height="313" alt="image" src="https://github.com/user-attachments/assets/75db8d1f-d3f0-416b-9948-16b2fecae678" />
 
+## Segragating Risks into Categories
+<img width="755" height="169" alt="image" src="https://github.com/user-attachments/assets/37f74081-3b9b-4a54-b07c-fdcddd8a7f24" />
 
 
 
