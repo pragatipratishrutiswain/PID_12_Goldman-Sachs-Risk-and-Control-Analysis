@@ -57,11 +57,15 @@ Credit risk assessment is based on various factors, including credit history, re
 
 <img width="589" height="278" alt="image" src="https://github.com/user-attachments/assets/45a1f169-f595-4037-93b2-1d78fab3d8f4" />
 
+<img width="584" height="230" alt="image" src="https://github.com/user-attachments/assets/18936563-db06-4c1c-9e7d-5a8b43ee3aff" />
 
+<img width="589" height="229" alt="image" src="https://github.com/user-attachments/assets/f9dd401c-0c27-4622-acd6-ba61a22bc1e8" />
 
+<img width="589" height="229" alt="image" src="https://github.com/user-attachments/assets/96a07c6c-04fe-4721-885f-4dd7e36c303d" />
 
+<img width="588" height="301" alt="image" src="https://github.com/user-attachments/assets/520cc405-3610-4fe2-8ad8-9f3b7ccdb5ba" />
 
-
+<img width="591" height="281" alt="image" src="https://github.com/user-attachments/assets/c8109205-dfd2-44e9-b023-a0c2d57c21fd" />
 
 
 
