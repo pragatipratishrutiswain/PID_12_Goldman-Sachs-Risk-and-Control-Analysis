@@ -50,22 +50,23 @@ Whether it's navigating financial markets or making everyday decisions as a coll
 ## Individual credit risk
 Credit risk assessment is based on various factors, including credit history, repayment capacity, financial stability, and income sources. Goldman Sachs uses sophisticated models and analytical tools to assess credit risk, ensuring sound investment decisions and minimizing potential losses.
 
-<img width="855" height="291" alt="image" src="https://github.com/user-attachments/assets/b851b520-cd1b-477f-8abc-829cc8521ece" />
+<img width="1710" height="582" alt="image" src="https://github.com/user-attachments/assets/225602d4-b33e-4f14-a33e-77acb73a7d16" />
 
 | Savings/Debt | 3 |-	1.2	|- 0.222222222	| 0.4 |
 ----------------------------------------------------
 
-<img width="589" height="278" alt="image" src="https://github.com/user-attachments/assets/45a1f169-f595-4037-93b2-1d78fab3d8f4" />
+<img width="1178" height="556" alt="image" src="https://github.com/user-attachments/assets/c4d9e7c8-85b4-4c21-bbc7-f9c09d1bb1d9" />
 
-<img width="584" height="230" alt="image" src="https://github.com/user-attachments/assets/18936563-db06-4c1c-9e7d-5a8b43ee3aff" />
+<img width="1167" height="459" alt="image" src="https://github.com/user-attachments/assets/3b597903-d5c7-4f74-b898-89e15a151900" />
 
-<img width="589" height="229" alt="image" src="https://github.com/user-attachments/assets/f9dd401c-0c27-4622-acd6-ba61a22bc1e8" />
+<img width="1178" height="457" alt="image" src="https://github.com/user-attachments/assets/ff8ada74-99d3-4272-95b0-67b14d6db11e" />
 
-<img width="589" height="229" alt="image" src="https://github.com/user-attachments/assets/96a07c6c-04fe-4721-885f-4dd7e36c303d" />
+<img width="1178" height="457" alt="image" src="https://github.com/user-attachments/assets/4d1f90ca-cbff-49b0-9bc6-cd7c47729947" />
 
-<img width="588" height="301" alt="image" src="https://github.com/user-attachments/assets/520cc405-3610-4fe2-8ad8-9f3b7ccdb5ba" />
+<img width="1175" height="601" alt="image" src="https://github.com/user-attachments/assets/f0e9b7a7-80f0-4f29-93a6-947e76a52354" />
 
-<img width="591" height="281" alt="image" src="https://github.com/user-attachments/assets/c8109205-dfd2-44e9-b023-a0c2d57c21fd" />
+<img width="1181" height="561" alt="image" src="https://github.com/user-attachments/assets/e10b9cf5-90ca-478f-8a6f-50d4d7fe2014" />
+
 
 
 
