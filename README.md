@@ -52,8 +52,7 @@ Credit risk assessment is based on various factors, including credit history, re
 
 <img width="855" height="291" alt="image" src="https://github.com/user-attachments/assets/b851b520-cd1b-477f-8abc-829cc8521ece" />
 
------------------------------------------------------
-|- Savings/Debt |- 3 |-	1.2	|- 0.222222222	|- 0.4 |-
+| Savings/Debt | 3 |-	1.2	|- 0.222222222	| 0.4 |
 ----------------------------------------------------
 
 <img width="589" height="278" alt="image" src="https://github.com/user-attachments/assets/45a1f169-f595-4037-93b2-1d78fab3d8f4" />
