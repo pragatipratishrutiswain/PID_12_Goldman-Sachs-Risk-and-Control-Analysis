@@ -51,6 +51,7 @@ Whether it's navigating financial markets or making everyday decisions as a coll
 Credit risk assessment is based on various factors, including credit history, repayment capacity, financial stability, and income sources. Goldman Sachs uses sophisticated models and analytical tools to assess credit risk, ensuring sound investment decisions and minimizing potential losses.
 
 <img width="855" height="291" alt="image" src="https://github.com/user-attachments/assets/b851b520-cd1b-477f-8abc-829cc8521ece" />
+
 -----------------------------------------------------
 |- Savings/Debt |- 3 |-	1.2	|- 0.222222222	|- 0.4 |-
 ----------------------------------------------------
